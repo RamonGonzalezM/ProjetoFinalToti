@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <style name="Theme.ProjetoFinalToti" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Personalize seu tema aqui -->
+
+    </style>
+</resources>
+
